@@ -1,7 +1,6 @@
 # INFO6150
-Labs about Info 6150
 
-Description: Setting up the development environment.
+Labs about Info 6150
 
 Author : Xuanying Wang
 
